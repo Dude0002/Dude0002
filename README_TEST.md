@@ -15,6 +15,8 @@ My Name is [**gfx.#0002**](https://gfxofficial.github.io/)
 ## 🚧 My Projects
 
 - [💼 Portfolio](https://gfxofficial.github.io/) - My portfolio.
+- [⚪ Game Website](https://gglabstm.github.io/) - Website For My Games
+- [🔷 Discord Server](https://discord.gg/TZEgTG7BfY) - Join My Discord Server
 
 ...explore my [other repos](https://github.com/gfxofficial?tab=repositories) for more projects.
 
