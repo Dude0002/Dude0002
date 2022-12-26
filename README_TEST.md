@@ -6,9 +6,10 @@
 
 # 👋 Hi there 
 
-My Name is [**Krushna**](https://krushna.tech)
+My Name is [**gfx.#0002**](https://gfxofficial.github.io/)
   
 **I am a passionate UI/UX designer who bridges the gap between development and design.**
+**Also i started learning gamedev like a month ago and now working on game more info soon**
  
 
 ## 🚧 My Projects
