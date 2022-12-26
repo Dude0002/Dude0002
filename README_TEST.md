@@ -38,7 +38,7 @@ My Name is [**gfx.#0002**](https://gfxofficial.github.io/)
 
 - [🐍 Snake]
 
-# ![Snake](https://raw.githubusercontent.com/DevEvil99/DevEvil99/output/github-contribution-grid-snake.svg)
+### ![Snake](https://raw.githubusercontent.com/DevEvil99/DevEvil99/output/github-contribution-grid-snake.svg)
 
 </div>
 <!--
