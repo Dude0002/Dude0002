@@ -31,27 +31,3 @@ My Name is [**gfx.#0002**](https://gfxofficial.github.io/)
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?&username=gfxofficial&layout=compact&hide_border=true&langs_count=8&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<div>
-  
-## 😂 Fun Stuff
-
-- [🐍 Snake]
-
-### ![Snake](https://raw.githubusercontent.com/DevEvil99/DevEvil99/output/github-contribution-grid-snake.svg)
-
-</div>
-<!--
-**Krushna06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
